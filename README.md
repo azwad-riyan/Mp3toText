@@ -31,7 +31,7 @@ Open your terminal (Command Prompt, PowerShell, or your terminal of choice).
 Run the following commands to install required libraries:
 
 ```bash
-pip install customtkinter pydub whisper ffmpeg-python `
+pip install customtkinter pydub whisper ffmpeg-python 
 ```
 Ensure FFmpeg is installed on your system:
 
@@ -58,12 +58,12 @@ git clone https://github.com/azwad-riyan/Mp3toText.git
 ```
 
 ```bash
-cd Mp3toText`
+cd Mp3toText
 ```
 Run the script:
 
 ```bash
-python main.py`
+python main.py
 ```
 ## Step 4: Use the Application
 The graphical interface will open.
