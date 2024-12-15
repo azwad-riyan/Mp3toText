@@ -30,9 +30,9 @@ Open your terminal (Command Prompt, PowerShell, or your terminal of choice).
 
 Run the following commands to install required libraries:
 
-`
+```bash
 pip install customtkinter pydub whisper ffmpeg-python `
-
+```
 Ensure FFmpeg is installed on your system:
 
 **Windows:**
@@ -53,16 +53,18 @@ Clone or download this repository:
 To clone you should have Git installed in your windows system. 
 If you don't have it just downloaded from  👉 [here](https://git-scm.com/downloads/win) & install it. 
 
-`
-git clone https://github.com/azwad-riyan/Mp3toText.git` 
+```bash
+git clone https://github.com/azwad-riyan/Mp3toText.git
+```
 
-`cd Mp3toText`
-
+```bash
+cd Mp3toText`
+```
 Run the script:
 
-`
+```bash
 python main.py`
-
+```
 ## Step 4: Use the Application
 The graphical interface will open.
 Click **"Select MP3 File"** to choose an audio file.
